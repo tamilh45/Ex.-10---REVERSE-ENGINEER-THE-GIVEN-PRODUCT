@@ -32,7 +32,10 @@
 
 ## Input:
 
-### Output:
+### Output: 
+
+![Screenshot 2024-01-02 210501](https://github.com/tamilh45/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/150312761/d56d9ede-e76d-4fc4-8c83-3200b9eacb4a)
+
 ![image](https://github.com/tamilh45/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/150312761/b391666d-c316-4d33-a2b3-3f54e2613c90)
 
 
