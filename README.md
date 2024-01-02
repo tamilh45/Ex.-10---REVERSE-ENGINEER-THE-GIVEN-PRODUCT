@@ -33,10 +33,11 @@
 ## Input:
 
 ### Output:
+![image](https://github.com/tamilh45/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/150312761/b391666d-c316-4d33-a2b3-3f54e2613c90)
 
 
-### Name:
-### Register Number:
+### Name: TAMIL PAVALAN M
+### Register Number: 23013740
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
