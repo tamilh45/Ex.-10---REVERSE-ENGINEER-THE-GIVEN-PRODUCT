@@ -34,13 +34,14 @@
 
 ### Output: 
 
-![Screenshot 2024-01-02 210501](https://github.com/tamilh45/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/150312761/d56d9ede-e76d-4fc4-8c83-3200b9eacb4a)
+![Screenshot 2024-01-03 000716](https://github.com/tamilh45/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/150312761/5ca03985-e6e5-409f-9a98-022651c5fd1a)
 
-![image](https://github.com/tamilh45/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/150312761/b391666d-c316-4d33-a2b3-3f54e2613c90)
+![Screenshot 2024-01-03 000555](https://github.com/tamilh45/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/150312761/29e139e8-8f53-47b4-a89f-808af0bc9997)
 
 
-### Name: TAMIL PAVALAN M
-### Register Number: 23013740
+
+### Name: SIVAKUMAR R
+### Register Number: 23013501
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
